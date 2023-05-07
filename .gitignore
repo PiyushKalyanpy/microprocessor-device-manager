@@ -1,0 +1,8 @@
+# Ignore the venv folder
+venv/
+
+# Ignore PyCharm project files
+*.iml
+.idea/
+*.pyc
+__pycache__/
