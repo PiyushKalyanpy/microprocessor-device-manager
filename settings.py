@@ -1,0 +1,7 @@
+#Title setting
+FONT_SIZE=24
+FONT_COLOR='#101010'
+
+
+MAIN_COLOR = '#0063ff'
+TEXT_COLOR='#b2b2b2'
